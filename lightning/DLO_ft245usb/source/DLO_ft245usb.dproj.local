@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/05/06 14:24:19.312.dproj,C:\Documents and Settings\paul\My Documents\dlop_usb\dlopsdk\DLO_template.dproj=C:\Documents and Settings\paul\My Documents\dlop_usb\dlopsdk\DLO_ft245usb.dproj</Transaction>
+    <Transaction>2007/05/07 00:42:39.468.pas,C:\Documents and Settings\paul\My Documents\dlop_usb\Delphi_CBUS_bitbang\D2XXUnit.pas=C:\Documents and Settings\paul\My Documents\dlop_usb\dlopsdk\D2XXUnit.pas</Transaction>
+    <Transaction>2007/05/07 01:03:00.234.pas,C:\Documents and Settings\paul\My Documents\dlop_usb\dlopsdk\Unit2.pas=C:\Documents and Settings\paul\My Documents\dlop_usb\dlopsdk\about.pas</Transaction>
+    <Transaction>2007/05/07 01:03:00.234.dfm,C:\Documents and Settings\paul\My Documents\dlop_usb\dlopsdk\Unit2.dfm=C:\Documents and Settings\paul\My Documents\dlop_usb\dlopsdk\about.dfm</Transaction>
+    <Transaction>2007/05/07 01:32:37.125.pas,C:\Documents and Settings\paul\My Documents\dlop_usb\dlopsdk\Unit2.pas=C:\Documents and Settings\paul\My Documents\dlop_usb\dlopsdk\dlopUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
